@@ -482,8 +482,9 @@ pre {
   margin-left: -15px; }
 
 .no-gutters {
-  margin-right: 0;
-  margin-left: 0; }
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-top:198px; }
   .no-gutters > .col,
   .no-gutters > [class*="col-"] {
     padding-right: 0;
