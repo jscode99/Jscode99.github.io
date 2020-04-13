@@ -1,6 +1,3 @@
-alert('Love You 3000')
-
-
  AOS.init({
  	duration: 800,
  	easing: 'slide'
