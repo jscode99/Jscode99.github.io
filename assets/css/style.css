@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   line-height: 1;
   display: inline-block;
-  font-size: 44px;
+  font-size: 42px;
 }
 h1 a:hover{
   color: #ffd666;
@@ -281,6 +281,12 @@ h1 a:hover{
 #header.header-top h1 {
   margin-right: auto;
   font-size: 36px;
+  width: 400px;
+}
+
+#header.header-top h1 a {
+  margin-right: auto;
+  font-size: 26px;
 }
 
 #header.header-top .container {
@@ -918,7 +924,7 @@ section .container {
   bottom: 15px;
   font-size: 13px;
   color: #fff;
-  z-index: 1;
+  z-index: 1000;
 }
 
 .credits a {
